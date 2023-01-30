@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "ionic:serve": "vite"
   },
   "dependencies": {
     "@capacitor/android": "^4.6.2",
