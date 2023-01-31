@@ -32,7 +32,7 @@ function Tab1() {
           </IonToolbar>
         </IonHeader>
         <IonContent className="ion-padding">
-          Tap the button in the toolbar to open the menu.
+          9999999
         </IonContent>
       </IonPage>
     </>
