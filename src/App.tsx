@@ -50,9 +50,9 @@ import "@ionic/react/css/display.css";
 
 /* Theme variables */
 import "./theme/variables.css";
+import Tab2 from "./pages/Tab2";
 
 setupIonicReact();
-debugger;
 const App: React.FC = () => (
   <IonApp>
     <IonReactRouter>
@@ -62,7 +62,7 @@ const App: React.FC = () => (
             <Tab1 />
           </Route>
           <Route exact path="/tab2">
-            <Tab1 />
+            <Tab2 />
           </Route>
           <Route path="/tab3">
             <Tab1 />
