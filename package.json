@@ -26,6 +26,7 @@
     "@ionic/pwa-elements": "^3.1.1",
     "@ionic/react": "^6.0.0",
     "@ionic/react-router": "^6.0.0",
+    "cordova-plugin-ionic": "5.5.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router": "^5.2.0",
